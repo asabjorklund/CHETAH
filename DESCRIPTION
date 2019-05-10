@@ -27,7 +27,7 @@ Imports:
   	S4Vectors,
   	SummarizedExperiment
 Depends:
-    R (>= 3.6),
+    R (>= 3.5),
 	  ggplot2,
   	SingleCellExperiment
 License: file LICENSE
